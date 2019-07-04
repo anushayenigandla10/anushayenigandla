@@ -7,6 +7,7 @@ public class program1 {
 
 System.out.println("This is anusha");	
 System.out.print("Hi hellk")
+hwjnwkjfh
 }
 
 }
