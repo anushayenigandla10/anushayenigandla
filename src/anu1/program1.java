@@ -14,6 +14,8 @@ System.out.print("hello world!")
 		System.out.println(c);
 		System.out.println(f);
 		System.out.println(v);
+		System.out.println(c);
+		System.out.println(c);
 			
 hwjnwkjfh
 }
