@@ -6,7 +6,13 @@ public class program1 {
 		System.out.println("This is anusha");
 
 System.out.println("This is anusha");	
-System.out.print("Hi hellk")
+System.out.print("Hi hellk");
+System.out.print("hello world!")
+	int a=10;
+		int b=11;
+		int c=a+b;
+		System.out.println(c);
+			
 hwjnwkjfh
 }
 
