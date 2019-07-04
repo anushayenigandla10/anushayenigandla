@@ -12,6 +12,8 @@ System.out.print("hello world!")
 		int b=11;
 		int c=a+b;
 		System.out.println(c);
+		System.out.println(f);
+		System.out.println(v);
 			
 hwjnwkjfh
 }
